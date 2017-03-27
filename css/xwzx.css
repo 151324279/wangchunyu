@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+.lamage2{
+	padding-right: 30px;
+}
+.new {
+	float: left;
+	width: 200px;
+}
+.new h2{
+	font-size: 24px;
+	color: blue;
+}
+.new li{
+	font-size: 15px;
+	height: 29px;
+	border-bottom: 1px  solid ;
+}
+.under{padding-top: 10px;
+padding-bottom: 10px;
+}
+.image1{
+	margin-bottom: 20px;
+}
+.qe{
+	float: right;
+	width: 770px;
+}
+.qe h2{
+	font-size: 24px;
+	color: black;
+}
+.news1 img{
+	float:left;
+	margin-right: 10px;
+}
+.news1{
+	border-bottom: 1px dashed #ccc;
+	padding-bottom: 40px;
+}
+h4{
+	font-size: 16px;
+	font-weight: bold;
+	color: black;
+}
+p{
+	text-indent: 2em;
+}
+
+.page{
+	text-align: right;
+}
+.page span{
+	float: left;
+}
+.span{
+	padding-left: 30px;
+	margin-right: 30px;
+}
+
+
+

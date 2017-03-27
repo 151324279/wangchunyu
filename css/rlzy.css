@@ -1,0 +1,59 @@
+@charset "utf-8";
+.comWidth h2{
+	padding-top: 30px;
+}
+.rl {
+	float: left;
+	width: 200px;
+}
+.rl h2{
+	font-size: 24px;
+    color: blue;
+}
+.rl li{
+	font-size: 15px;
+	height: 29px;
+	border-bottom: 1px  solid ; 
+}
+.ln {
+	float: right;
+	width: 770px;
+}
+.ln h2{
+	font-size: 20px;
+	color: #000000;
+	padding-top: 30px;
+}
+.ln p{
+	text-indent: 2em;
+}
+.jieshao {
+	background: url('../image/join.jpg') no-repeat right;
+	padding-right: 250px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.job{
+	text-align: right;
+}
+.job a{
+	float: left;
+}
+.job li{
+	font-size: 14px;
+	font-weight: bold;
+	padding-top: 20px;
+}
+.page{
+	text-align: right;
+	padding-top: 50px;
+}
+.page span{
+	/*font-size: 14px;*/
+	font-weight: bold;
+	float: left;
+}
+.jieshao p{
+	font-size:14px;
+	color: black;
+}
